@@ -1,0 +1,7 @@
+names:
+- knife
+- spoon
+nc: 2
+test: /Users/egoryakovlev/Documents/Programming/YOLO_NN/Yolo_NN/Seg_v8_spoon_knife/YOLO_dataset/validation/images
+train: /Users/egoryakovlev/Documents/Programming/YOLO_NN/Yolo_NN/Seg_v8_spoon_knife/YOLO_dataset/train/images
+val: /Users/egoryakovlev/Documents/Programming/YOLO_NN/Yolo_NN/Seg_v8_spoon_knife/YOLO_dataset/validation/images
